@@ -1,0 +1,11 @@
+
+
+*(fixed) inconsistent processes (after error like usind cd u have to press ctrl D multiple times to exit)
+
+
+* prob with memory and memory leaks
+
+
+* prob with path (echo $PATH) delete the "PATH=" from output
+
+* change getenv to a local func , atoi, sprintf 
